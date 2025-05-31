@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js and TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://you-div.netlify.app](https://you-div.netlify.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://yousseffed.vercel.app/)
 
 - 📫 How to reach me **youssfoficil@gmail.com**
 
