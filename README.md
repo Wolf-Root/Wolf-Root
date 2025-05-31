@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Youssef</h1>
+<h3 align="center">Front-End Developer || React Enthusiast</h3>
 
-<!--
-**Wolf-Root/Wolf-Root** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **a portfolio website**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Next.js and TypeScript**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [https://you-div.netlify.app](https://you-div.netlify.app)
+
+- 📫 How to reach me **youssfoficil@gmail.com**
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YoussefDev&show_icons=true&theme=radical" alt="Youssef GitHub Stats" />
+</p>
+
+### 🔥 Most Used Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefDev&layout=compact&theme=radical" />
+</p>
