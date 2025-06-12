@@ -24,5 +24,4 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![React](https://img.shields.io/badge/-tailwindcss-61DAFB?style=flat&logo=react&logoColor=black)
-
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=tailwindcss&logoColor=black)
