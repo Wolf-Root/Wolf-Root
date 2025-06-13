@@ -2,22 +2,22 @@
 <h3 align="center">Front-End Developer || React</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=wolf-root&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=wolf-root&label=Profile%20views&color=abd200&style=flat" alt="Profile views" />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-profile-trophy.vercel.app/?username=wolf-root" alt="GitHub Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=wolf-root&theme=gruvbox&row=2&column=4" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://x.com/wolf_r00t" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20me%20on-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow me on Twitter" />
+    <img src="https://img.shields.io/badge/Follow%20me%20on-Twitter-ABD200?style=for-the-badge&logo=twitter&logoColor=000000" alt="Follow me on Twitter" />
   </a>
 </p>
 
-- 👨‍💻 👨‍💻 All of my projects are available on my GitHub repositories or on my portfolio website [portfolio](https://yousseffed.vercel.app).
+- 👨‍💻 All of my projects are available on my GitHub repositories or on my portfolio website [portfolio](https://yousseffed.vercel.app).
 
 - 📫 How to reach me: **youssfoficil@gmail.com**
 
@@ -126,9 +126,7 @@
 </table>
 
 
-
 <h3 align="left">Support:</h3>
-
 <p align="left">
   <a href="https://www.buymeacoffee.com/wolf_root?new=1" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
@@ -143,14 +141,16 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wolf-root&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<!-- GitHub Top Languages -->
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolf-root&layout=donut-vertical&theme=merko&hide_border=false" 
+    alt="Top Languages"
+  />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=wolf-root&show_icons=true&locale=en" alt="GitHub Stats" />
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wolf-root&show_icons=true&locale=en&theme=merko" alt="GitHub Stats" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wolf-root" alt="GitHub Streak" />
-</p>
