@@ -86,7 +86,7 @@ You can check out all my projects here on GitHub or on my [portfolio](https://yo
 <p>If you like my work, consider buying me a coffee or supporting me on Ko-fi 😄</p>
 
 <p>
-  <a href="coff.ee/Wolf_Root" target="_blank" rel="noopener noreferrer">
+  <a href="https://buymeacoffee.com/Wolf_Root" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
   &nbsp;&nbsp;
