@@ -76,7 +76,7 @@ You can check out all my projects here on GitHub or on my [portfolio](https://yo
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wolf-root&theme=merko" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wolf-root&bg_color=1a1a1a&color=abd200&line=38f6ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
