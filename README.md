@@ -34,7 +34,7 @@ I love building **clean, modern, and impactful web experiences** using **React, 
 
 #### 🎨 Front-End
 
-![Frontend](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,sass,tailwind,materialui,ts,react,vite,nextjs,gsap)
+![Frontend](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,sass,react,vite,tailwind,ts,nextjs,materialui,gsap)
 
 #### ⚙️ Back-End
 
@@ -42,7 +42,7 @@ I love building **clean, modern, and impactful web experiences** using **React, 
 
 #### 🚀 Tools & Platforms
 
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=linux,vscode,figma,git,bash,npm,eslint,prettier,vercel)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,vscode,figma,git,npm,eslint,prettier,vercel)
 
 ---
 
@@ -73,7 +73,7 @@ I love building **clean, modern, and impactful web experiences** using **React, 
 
 ### ☕ Support Me
 
-#### If you enjoy my work, consider supporting me on **Buy Me a Coffee** or **Ko-fi** 😄
+#### If you enjoy my work, consider supporting me on **Buy Me a Coffee** or **Ko-fi** ❤️
 
 <p>
   <a href="https://buymeacoffee.com/Wolf_Root" target="_blank" rel="noopener noreferrer">
