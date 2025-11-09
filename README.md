@@ -13,7 +13,7 @@ Youssef | Full-Stack Developer | React | Next.js | Tailwind CSS | GitHub Profile
 Hi, I'm Youssef 👋, a 18-year-old Full-Stack Developer from Morocco 🇲🇦.  
 I love building **clean, modern, and impactful web experiences** using **React, Next.js, Tailwind CSS, Material UI, and GSAP**.
 
-📂 Check out all my projects here on **GitHub** or visit my [portfolio](https://yousseffed.vercel.app).
+📂 Check out all my projects here on **GitHub** or visit my [portfolio](https://youssf.vercel.app).
 
 - 📫 Reach me at: **youssfoficil@gmail.com**
 
