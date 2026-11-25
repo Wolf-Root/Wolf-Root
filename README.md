@@ -1,6 +1,17 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
+<h1 align="center">
+	<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFC460&width=435&lines=Hi%2C+I'm+Youssef%2C+From+Morocco.;A+Software+Engineer.;Cybersecurity+Enthusiast.)](https://git.io/typing-svg)
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFC460&width=435&lines=Hi%2C+I%27m+Youssef%2C+From+Morocco.;A+Software+Engineer.;Cybersecurity+Enthusiast.)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+  <img src="banner.gif" alt="Kirolos Louis | Frontend Developer" width="100%" />
+</div> 
 
 ## 🧰 Things I Code With
 
