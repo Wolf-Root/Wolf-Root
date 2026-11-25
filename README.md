@@ -71,7 +71,5 @@
 
 ## Where to find me
 
-<p>
-	<a href="https://linkedin.com/in/youssefakm" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-	<a href="https://youssef.vivro.dev" target="_blank"><img alt="portfolio" src="https://img.shields.io/badge/portfolio-FFC460.svg?&style=for-the-badge" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssefakm)
+[![Portfolio](https://img.shields.io/badge/portfolio-FFC460.svg?&style=for-the-badge)](https://youssef.vivro.dev)
