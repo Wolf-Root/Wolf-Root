@@ -1,17 +1,14 @@
 <h1 align="center">
-	<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
+	<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Blob with sunglasses" width="30" /> Hey! Nice to see you.
 </h1>
 
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFC460&width=435&lines=Hi%2C+I%27m+Youssef%2C+From+Morocco.;A+Software+Engineer.;Cybersecurity+Enthusiast.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFC460&width=500&center=true&vCenter=true&lines=Hi%2C+I%27m+Youssef%2C+From+Morocco.;A+Software+Engineer.;Cybersecurity+Enthusiast.)](https://git.io/typing-svg)
+
+<img src="banner.gif" alt="Pixel art gamer room banner" width="100%" />
 
 </div>
-
-<div align="center">
-  <img src="banner.gif" alt="Kirolos Louis | Frontend Developer" width="100%" />
-</div> 
 
 ## 🧰 Things I Code With
 
@@ -69,7 +66,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-## Where to find me
+## 📫 Where to Find Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssefakm)
 [![Portfolio](https://img.shields.io/badge/portfolio-FFC460.svg?&style=for-the-badge)](https://youssef.vivro.dev)
