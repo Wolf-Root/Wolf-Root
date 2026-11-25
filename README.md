@@ -73,5 +73,5 @@
 
 <p>
 	<a href="https://linkedin.com/in/youssefakm" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-	<a href="https://youssef.vivro.dev" target="_blank"><img alt="portfolio" src="https://img.shields.io/badge/portfolio-%2312100E.svg?&style=for-the-badge" />
+	<a href="https://youssef.vivro.dev" target="_blank"><img alt="portfolio" src="https://img.shields.io/badge/portfolio-FFC460.svg?&style=for-the-badge" />
 </p>
